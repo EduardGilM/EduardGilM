@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hola, soy Eduard Gil
 
-<!--
-**EduardGilM/EduardGilM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de Ingeniería Multimedia, apasionado por la **Inteligencia Artificial**, el **Machine Learning** y el desarrollo de software.  
 
-Here are some ideas to get you started:
+## 🚀 Intereses
+- 🤖 Inteligencia Artificial y Aprendizaje por Refuerzo
+- 📊 Ciencia de Datos
+- 🕹️ Proyectos de simulación y entornos virtuales
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologías y herramientas
+- **Lenguajes:** Python, Java, JavaScript
+- **IA & ML:** PyTorch, TensorFlow, JAX
+- **Desarrollo:** Git, Docker, APIs REST
+- **Otros:** Linux, Bash, SQL
+
+## 📌 Actualmente
+- Terminando mis estudios de Ingeniería Multimedia
+- Buscando **prácticas** para aplicar y ampliar mis conocimientos en IA y desarrollo
+- Trabajando en proyectos de aprendizaje por refuerzo y simulaciones físicas
+
+## 📫 Cómo contactarme
+- 💼 [LinkedIn](https://www.linkedin.com/in/eduard-gil-magraner-860736296/)
+
+### GitHub Stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=EduardGilM&theme=soft-green)](https://git.io/streak-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardGilM)
