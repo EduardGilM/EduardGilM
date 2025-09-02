@@ -22,6 +22,6 @@
 - 💼 [LinkedIn](https://www.linkedin.com/in/eduard-gil-magraner-860736296/)
 
 ### GitHub Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=EduardGilM&theme=blueberry-duo)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=EduardGilM&theme=blueberry-duo&mode=weekly)](https://git.io/streak-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardGilM)
