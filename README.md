@@ -1,3 +1,5 @@
+![Intro](intro_text.gif)
+
 
 🎓 Estudiante de Ingeniería Multimedia, apasionado por la **Inteligencia Artificial**, el **Machine Learning** y el desarrollo de software.  
 
