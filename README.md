@@ -29,8 +29,6 @@ Multimedia Engineering student passionate about Artificial Intelligence, Machine
 
 **LinkedIn**: [Connect with me](https://www.linkedin.com/in/eduard-gil-magraner-860736296/)
 
-### GitHub Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=EduardGilM&theme=blueberry-duo&mode=weekly)](https://git.io/streak-stats)
 ---
 
 ## GitHub Statistics
