@@ -1,35 +1,17 @@
-![Intro](intro_text.gif)
+# Eduard Gil Magraner
 
----
+Machine Learning Engineer specialized in deep learning, LLMs and reinforcement learning.
 
-## About Me
+Published researcher in *Entertainment Computing* (Elsevier) — [Multi-Agent RL for intelligent NPCs](https://doi.org/10.1016/j.entcom.2025.100941).
 
-Multimedia Engineering student passionate about Artificial Intelligence, Machine Learning, and software development. 
+## Projects
 
----
+- **Flood prediction models** — deep learning for flood forecasting: JEPA, LSTM, U-Net, transformers
+- **[tennis-rl](https://github.com/EduardGilM/tennis-rl)** — reinforcement learning on LLMs: SFT + GRPO betting policy over live tennis replays
+- **[OIL-QDax](https://github.com/EduardGilM/OIL-QDax)** — accelerated quality-diversity combined with information theory techniques, built on QDax (JAX)
 
-## Areas of Interest
+## Stack
 
-- Machine Learning and Reinforcement Learning
-- Natural Language Processing
-- Complex Systems
-- Information Theory
+Python · PyTorch · Hugging Face · RAG & agents · JAX
 
----
-
-
-
-## Current Focus
-
-- Completing Multimedia Engineering degree
-
----
-
-## Get in Touch
-
-**LinkedIn**: [Connect with me](https://www.linkedin.com/in/eduard-gil-magraner-860736296/)
-
----
-
-## GitHub Statistics
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardGilM&theme=dark)
+[LinkedIn](https://www.linkedin.com/in/eduard-gil-magraner) · [Email](mailto:eduardgilmagraner@gmail.com)
