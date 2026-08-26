@@ -14,4 +14,4 @@ Published researcher in *Entertainment Computing* (Elsevier) — [Multi-Agent RL
 
 Python · PyTorch · Hugging Face · RAG & agents · JAX
 
-[LinkedIn](https://www.linkedin.com/in/eduard-gil-magraner) · [Email](mailto:eduardgilmagraner@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/eduard-gil-magraner)
